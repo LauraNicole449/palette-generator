@@ -2,7 +2,9 @@
 
 _Effortlessly create stunning color palettes for your UX/UI projects._
 
-![Desktop Image](https://i.imgur.com/omXHxoO.png)
+![image](https://github.com/user-attachments/assets/b344a031-0722-4390-8cf2-c6710a603d39)
+
+
 
 ---
 
